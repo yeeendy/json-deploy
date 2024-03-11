@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": "id74",
+      "username": "wendy",
+      "title": "과제하자",
+      "info": "3월11일까지 알겠지?"
+    },
+    {
+      "id": "id128",
+      "username": "난데",
+      "title": "리액트쿼리로 리팩토링을 완료했단다",
+      "info": "하핫"
+    },
+    {
+      "id": "id8",
+      "username": "ㄴㅇ",
+      "title": "ㅌㅌㅍ",
+      "info": "ㅁㅇㄹㅁㅇ"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": null
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": null
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
